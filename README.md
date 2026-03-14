@@ -17,7 +17,7 @@ A simple console-based auction system built using Python. Users can add items, p
 
 ## How to Run
 1. Open terminal in the project folder
-2. Run: `python auction.py`
+2. Run: `Auction.py`
 
 The program will automatically create `auction_data.txt` to store auction data.
 
